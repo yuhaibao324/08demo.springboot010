@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="HelloWorld" />
+        <module name="SpringBoot-Lombok" />
+        <module name="SpringBoot-Web-Json" />
+        <module name="springbootservlet" />
+        <module name="springbootwar" />
+        <module name="springbootwebfreemarker" />
+        <module name="springbootwebjsp" />
+        <module name="springbootwebwebjars" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="HelloWorld" target="1.8" />
+      <module name="SpringBoot-Lombok" target="1.8" />
+      <module name="SpringBoot-Web-Json" target="1.8" />
+      <module name="springbootservlet" target="1.8" />
+      <module name="springbootwar" target="1.8" />
+      <module name="springbootwebfreemarker" target="1.8" />
+      <module name="springbootwebjsp" target="1.8" />
+      <module name="springbootwebwebjars" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

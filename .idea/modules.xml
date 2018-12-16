@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/08demo.springboot010.iml" filepath="$PROJECT_DIR$/.idea/08demo.springboot010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Lombok/SpringBoot-Lombok.iml" filepath="$PROJECT_DIR$/SpringBoot-Lombok/SpringBoot-Lombok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Web-Json/SpringBoot-Web-Json.iml" filepath="$PROJECT_DIR$/SpringBoot-Web-Json/SpringBoot-Web-Json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Servlet/springbootservlet.iml" filepath="$PROJECT_DIR$/SpringBoot-Servlet/springbootservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-War/springbootwar.iml" filepath="$PROJECT_DIR$/SpringBoot-War/springbootwar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Web-Freemarker/springbootwebfreemarker.iml" filepath="$PROJECT_DIR$/SpringBoot-Web-Freemarker/springbootwebfreemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Web-JSP/springbootwebjsp.iml" filepath="$PROJECT_DIR$/SpringBoot-Web-JSP/springbootwebjsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-Web-Webjars/springbootwebwebjars.iml" filepath="$PROJECT_DIR$/SpringBoot-Web-Webjars/springbootwebwebjars.iml" />
+    </modules>
+  </component>
+</project>

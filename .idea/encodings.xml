@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/HelloWorld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Lombok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Servlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-War" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Web-Freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Web-JSP" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Web-Json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-Web-Webjars" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
